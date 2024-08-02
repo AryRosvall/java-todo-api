@@ -1,4 +1,4 @@
-package com.aryrosvall.rest.webservices.restfulwebservices.basic.auth;
+package com.aryrosvall.rest.basic.auth;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
